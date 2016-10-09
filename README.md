@@ -1,4 +1,4 @@
-# ChameleonMini128a1-revG
+# Chameleon128a1-revG
 Based on the open-source NFC tool ChameleonMini: https://github.com/emsec/ChameleonMini
 
 This implementation of ChameleonMini has been created for hardware board based on
